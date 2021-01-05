@@ -1,0 +1,7 @@
+name: gitrepo
+channels:
+  - python
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
