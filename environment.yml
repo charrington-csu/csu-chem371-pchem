@@ -12,4 +12,6 @@ dependencies:
   - anaconda==2020.07=py38_0
   - anaconda-navigator
   - navigator-updater
+  - numpy
+  - scipy
 prefix: /Users/courtneyharrington/opt/anaconda3
