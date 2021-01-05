@@ -2,4 +2,4 @@
 
 Physical Chemistry, CHEM371
 
-This repository contains Jupyter notebooks featuring content from various topics in physical chemistry.
+This repository contains several Jupyter notebooks featuring content within the purvey of physical chemistry, including quantum mechanics, chemical kinetics, and thermodynamics.
