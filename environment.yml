@@ -1,8 +1,9 @@
-name: git-repo-env
+name: gitrepo
 channels:
+  - conda-forge
   - anaconda
   - defaults
 dependencies:
   - numpy
   - scipy
-  - matplotlib.pyplot
+  - matplotlib=3.1.2
