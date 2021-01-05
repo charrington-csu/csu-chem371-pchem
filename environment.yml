@@ -308,5 +308,3 @@ dependencies:
   - zope.event=4.4=py38_0
   - zope.interface=4.7.1=py38h1de35cc_0
   - zstd=1.4.5=h41d2c2f_0
-prefix: /Users/courtneyharrington/opt/anaconda3
-
