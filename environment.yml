@@ -1,9 +1,0 @@
-name: gitrepo
-channels:
-  - conda-forge
-  - anaconda
-  - defaults
-dependencies:
-  - numpy
-  - scipy
-  - matplotlib=3.1.2
